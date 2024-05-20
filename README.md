@@ -25,7 +25,7 @@
   - Python: Linguagem de programação principal para desenvolvimento do projeto.
   - Hugging Face Transformers: Biblioteca para utilização de modelos de NLP pré-treinados.
   - Pandas: Biblioteca para manipulação e análise de dados.
-  - Selenuim Webdriver: é uma estrutura web que permite executar testes entre navegadores.
+  - Selenium Webdriver: é uma estrutura web que permite executar testes entre navegadores.
 
 ---
 
