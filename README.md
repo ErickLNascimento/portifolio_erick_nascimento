@@ -1,23 +1,28 @@
-Projeto 1: Web Scraping e Análise de Sentimento com Python e Hugging Face
-Descrição do Projeto
-Bem-vindo ao repositório do projeto de Web Scraping e Análise de Sentimento! Este projeto tem como objetivo extrair dados de páginas web utilizando técnicas de scraping com Python, e posteriormente analisar o conteúdo coletado utilizando modelos de análise de sentimento fornecidos pela biblioteca Hugging Face.
+Projeto 1: Web Scraping e AnÃ¡lise de Sentimento com Python e Hugging Face
+
+
+DescriÃ§Ã£o do Projeto
+Bem-vindo ao repositÃ³rio do projeto de Web Scraping e AnÃ¡lise de Sentimento! Este projeto tem como objetivo extrair dados de pÃ¡ginas web utilizando tÃ©cnicas de scraping com Python, e posteriormente analisar o conteÃºdo coletado utilizando modelos de anÃ¡lise de sentimento fornecidos pela biblioteca Hugging Face.
 
 * Objetivos
-Coleta de Dados: Extrair informações relevantes de vários websites simultaneamente
-Análise de Sentimento: Processar o conteúdo extraído e realizar a análise de sentimento utilizando modelos pré-treinados da Hugging Face.
-Visualização de Resultados: Apresentar os resultados da análise de forma clara e informativa através de relatórios.
+Coleta de Dados: Extrair informaÃ§Ãµes relevantes de vÃ¡rios websites simultaneamente
+AnÃ¡lise de Sentimento: Processar o conteÃºdo extraÃ­do e realizar a anÃ¡lise de sentimento utilizando modelos prÃ©-treinados da Hugging Face.
+VisualizaÃ§Ã£o de Resultados: Apresentar os resultados da anÃ¡lise de forma clara e informativa atravÃ©s de relatÃ³rios.
+
 
 * Funcionalidades
 Scraping de Dados:
-Configuração e execução de scrapers para coletar dados de várias fontes web.
-Manipulação e limpeza dos dados extraídos para garantir a qualidade e consistência.
-Análise de Sentimento:
-Utilização de modelos de NLP (Processamento de Linguagem Natural) da Hugging Face para análise de sentimento.
-Classificação do conteúdo em categorias como Inappropriate Content, Neutral Content e Free Content.
-Visualização e Relatórios:
-Criação de relatórios detalhados para apresentar as avaliações feitos dos conteúdos extraídos.
+ConfiguraÃ§Ã£o e execuÃ§Ã£o de scrapers para coletar dados de vÃ¡rias fontes web.
+ManipulaÃ§Ã£o e limpeza dos dados extraÃ­dos para garantir a qualidade e consistÃªncia.
+AnÃ¡lise de Sentimento:
+UtilizaÃ§Ã£o de modelos de NLP (Processamento de Linguagem Natural) da Hugging Face para anÃ¡lise de sentimento.
+ClassificaÃ§Ã£o do conteÃºdo em categorias como Inappropriate Content, Neutral Content e Free Content.
+VisualizaÃ§Ã£o e RelatÃ³rios:
+CriaÃ§Ã£o de relatÃ³rios detalhados para apresentar as avaliaÃ§Ãµes feitos dos conteÃºdos extraÃ­dos.
+
+
 * Tecnologias Utilizadas
-Python: Linguagem de programação principal para desenvolvimento do projeto.
-Hugging Face Transformers: Biblioteca para utilização de modelos de NLP pré-treinados.
-Pandas: Biblioteca para manipulação e análise de dados.
-Selenuim Webdriver: é uma estrutura web que permite executar testes entre navegadores.
+Python: Linguagem de programaÃ§Ã£o principal para desenvolvimento do projeto.
+Hugging Face Transformers: Biblioteca para utilizaÃ§Ã£o de modelos de NLP prÃ©-treinados.
+Pandas: Biblioteca para manipulaÃ§Ã£o e anÃ¡lise de dados.
+Selenuim Webdriver: Ã© uma estrutura web que permite executar testes entre navegadores.
