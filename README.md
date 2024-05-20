@@ -2,7 +2,7 @@
 
 
  - Descrição do Projeto
-Bem-vindo ao repositório do projeto de Web Scraping e Análise de Sentimento! Este projeto tem como objetivo extrair dados de páginas web utilizando técnicas de scraping com Python, e posteriormente analisar o conteúdo coletado utilizando modelos de análise de sentimento fornecidos pela biblioteca Hugging Face.
+   - Bem-vindo ao repositório do meu projeto de Web Scraping e Análise de Sentimento! Este projeto tem como objetivo extrair dados de páginas web utilizando técnicas de scraping com Python, e ,posteriormente, analisar o conteúdo coletado utilizando modelos de análise de sentimento fornecidos pela biblioteca Hugging Face.
 
 - Objetivos
   - Coleta de Dados: Extrair informações relevantes de vários websites simultaneamente
