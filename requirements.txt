@@ -1,0 +1,7 @@
+flask~=3.0.3
+flask-sqlalchemy
+pandas~=2.2.2
+fpdf
+selenium~=4.21.0
+requests~=2.32.2
+SQLAlchemy~=2.0.30
